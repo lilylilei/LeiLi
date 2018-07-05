@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeiLi.iml" filepath="$PROJECT_DIR$/LeiLi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leiliMu/leiliMu.iml" filepath="$PROJECT_DIR$/leiliMu/leiliMu.iml" />
+    </modules>
+  </component>
+</project>
